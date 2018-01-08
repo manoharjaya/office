@@ -1,0 +1,7 @@
+object Hello
+{
+	def main(ar:Array[String])
+	{
+		println("hello manohar");
+	}
+}

@@ -1,0 +1,11 @@
+class com
+{
+	public static void main(String asd[])
+	{
+		String s1="msxxcf";
+		String s2="mx";
+		int value=s1.compareTo(s2);
+				
+		System.out.println("com="+value);	
+	}
+}
