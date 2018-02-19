@@ -25,7 +25,7 @@ void Print(struct Node *head)
 	}
 	printf("\n");
 }
-void main()
+int  main()
 {
 	int no,data,i;
 	struct Node *head=NULL;
@@ -38,5 +38,5 @@ void main()
 		Insert(&head,data);
 		Print(head);
 	}
-	
+	return 0;
 }

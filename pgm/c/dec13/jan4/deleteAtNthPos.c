@@ -62,8 +62,8 @@ void main()
 {
 	head=NULL;
 	Insert(17);
-        Insert(27);
-        Insert(7);
+    Insert(27);
+    Insert(7);
 	Insert(57);
 	Insert(66);
 	Print();
